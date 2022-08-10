@@ -3,6 +3,14 @@
 As part of **AlmaBetter** Capstone Project
 by Debanjan Ganguly
 
+### *Project Source & Distribution Link:*
+
+> Github Link: - [https://github.com/awesomedeba10/AirBnb-Booking-Analysis---AlmaBetter-Capstone-Project](https://github.com/awesomedeba10/AirBnb-Booking-Analysis---AlmaBetter-Capstone-Project)
+
+> Drive Link: - [https://drive.google.com/drive/folders/15MIB7JPr5__li0epv0ow9e4T0F540anU?usp=sharing](https://drive.google.com/drive/folders/15MIB7JPr5__li0epv0ow9e4T0F540anU?usp=sharing)
+
+> Tableau Dashboard Link: - [https://public.tableau.com/views/AirbnbCaseStudy_16601561667280/Story1](https://public.tableau.com/views/AirbnbCaseStudy_16601561667280/Story1)
+
 Email : [officialdeba10@gmail.com](mailto:officialdeba10@gmail.com)
 
 Project Contribution :
@@ -22,12 +30,6 @@ Project Contribution :
 7. Analysis against reviews
 
 8. Analysis against minimum nights to stay
-
-### *GitHub Repo & Drive Link:*
-
-> Github Link: - [https://github.com/awesomedeba10/AirBnb-Booking-Analysis---AlmaBetter-Capstone-Project](https://github.com/awesomedeba10/AirBnb-Booking-Analysis---AlmaBetter-Capstone-Project)
-
-> Drive Link: - [https://drive.google.com/drive/folders/15MIB7JPr5__li0epv0ow9e4T0F540anU?usp=sharing](https://drive.google.com/drive/folders/15MIB7JPr5__li0epv0ow9e4T0F540anU?usp=sharing)
 
 ### *Project Summary*
 
